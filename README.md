@@ -1,12 +1,6 @@
 # Hi there, I'm Zahra Elair 👋
 
-## I'm a Software Engineering Student!!
-
--   🌱 I’m currently learning everything 🤣
--   👯
--   🥅 2022 Goals: Learn more about web3
--   ⚡ Fun fact: I love to draw
--   😻
+## A Software Engineering Student and a Web developer !!
 
 ### Connect with me:
 
@@ -34,8 +28,8 @@
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-light-mode-only" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-dark-mode-only" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" style="padding-right:10px;" />
 
 <br />
 <br />
@@ -48,5 +42,3 @@
 [linkedin-dark]: https://www.linkedin.com/in/zahra-elair/#gh-dark-mode-only
 [facebook-light]: https://www.facebook.com/profile.php?id=100071281239220#gh-light-mode-only
 [facebook-dark]: https://www.facebook.com/profile.php?id=100071281239220#gh-dark-mode-only
-[github-light]: https://github.com/Zahra-Elair#gh-dark-mode-only
-[github-dark]: https://github.com/Zahra-Elair#gh-dark-mode-only
