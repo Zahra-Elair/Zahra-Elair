@@ -1,6 +1,12 @@
 # Hi there, I'm Zahra Elair 👋
 
-## A Software Engineering Student and a Web developer !!
+**About me**
+
+-   🌱 I’m a Software Engineering Student
+-   💼 Web developer intern at [EONN SARL](https://eonn-consulting.com)
+-   ⚡ I love to painting and traveling
+-   📫 my email address: zahraelair17@gmail.com
+-   📞 my phone number: +(216) 50389034
 
 ### Connect with me:
 
@@ -33,6 +39,8 @@
 
 <br />
 <br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zahra-Elair)](https://github.com/anuraghazra/github-readme-stats)
 
 [website-light]: #gh-light-mode-only
 [website-dark]: #gh-dark-mode-only
