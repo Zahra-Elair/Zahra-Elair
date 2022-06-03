@@ -45,7 +45,8 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zahra-Elair&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zahra-Elair&layout=compact&theme=radial)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zahra-Elair&layout=compact)](##gh-light-mode-only)
 
 [website-light]: #gh-light-mode-only
 [website-dark]: #gh-dark-mode-only
@@ -55,3 +56,5 @@
 [linkedin-dark]: https://www.linkedin.com/in/zahra-elair/#gh-dark-mode-only
 [facebook-light]: https://www.facebook.com/profile.php?id=100071281239220#gh-light-mode-only
 [facebook-dark]: https://www.facebook.com/profile.php?id=100071281239220#gh-dark-mode-only
+[card-light]: https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only
+[card-dark]: https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only
