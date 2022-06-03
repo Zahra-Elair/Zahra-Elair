@@ -45,7 +45,7 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zahra-Elair&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zahra-Elair&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 [website-light]: #gh-light-mode-only
 [website-dark]: #gh-dark-mode-only
