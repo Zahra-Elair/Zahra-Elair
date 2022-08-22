@@ -3,7 +3,7 @@
 **About me**
 
 -   🌱 I’m a Software Engineering Student
--   💼 Software Engineering Intern at [LEONI](https://www.leoni.com/en/)
+-   💼 Previous Software Engineering Intern at [LEONI](https://www.leoni.com/en/)
 -   ⚡ I love painting and traveling
 -   📫 my email address: zahraelair17@gmail.com
 -   📞 my phone number: +(216) 50389034
