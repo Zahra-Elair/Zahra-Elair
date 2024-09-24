@@ -2,7 +2,7 @@
 
 **About me**
 
--   🌱 I’m a Software Engineering Student
+-   🌱 I’m a Software Engineer / Web3 Developer
 -   💼 Here is my [Portfolio](https://zahra-elair.github.io/Portfolio/)
 -   ⚡ I love painting and traveling
 -   📫 my email address: zahraelair17@gmail.com
