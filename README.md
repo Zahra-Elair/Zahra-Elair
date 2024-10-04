@@ -4,7 +4,7 @@
 
 -   🌱 I’m a Software Engineer / Web3 Developer
 -   💼 Here is my [Portfolio](https://zahra-elair.github.io/Portfolio/)
--   ⚡ I love painting and traveling
+-   ⚡ I love coding and traveling
 -   📫 my email address: zahraelair17@gmail.com
 -   📞 my phone number: +(216) 50389034
 
