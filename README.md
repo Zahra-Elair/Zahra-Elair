@@ -4,7 +4,6 @@
 
 -   🌱 I’m a Software Engineer / Web3 Developer
 -   💼 Here is my [Portfolio](https://portfolio-five-rust-40.vercel.app/)
--   ⚡ I love coding and traveling
 -   📫 my email address: zahraelair17@gmail.com
 -   📞 my phone number: +(216) 50389034
 
